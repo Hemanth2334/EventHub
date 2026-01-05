@@ -1,0 +1,47 @@
+[
+    {
+        "CategoryName":"Bday",
+        "name": "Mello Birthday Bubbles",
+        "description":"Focuses on birthday party planning, offering services like venue decoration, catering, DJ, photography, and more."
+    },
+    {
+        "CategoryName":"Bday",
+        "name": "Birthday Blings",
+        "description":"Specializes in creating memorable birthday parties with a variety of themes and entertainment options."
+    },
+    {
+        "CategoryName":"Bday",
+        "name": "Book My Balloons",
+        "description":"Offers over a decade of experience in planning and managing birthday events, with a focus on theme party decorations and entertainment services."
+    },
+    {
+        "CategoryName":"Wedding",
+        "name": "Just Events 365",
+        "description":"A pioneer in creating mesmerizing events for private and corporate clients, offering services from conception to execution."
+    },
+    {
+        "CategoryName":"Wedding",
+        "name": "Bengaluru Event Planners",
+        "description":"Plans a wide range of services including weddings, birthday parties, stage decorations, and more."
+    },
+    {
+        "CategoryName":"Wedding",
+        "name": "Aspark Events",
+        "description":"Provides services like wedding planning, event fabrications, and event rentals."
+    },
+    {
+        "CategoryName":"Wedding",
+        "name": "Zzeeh Events",
+        "description":"Organizes and executes weddings, and more, guiding clients in invitations, venue selection, and other event aspects."
+    },
+    {
+        "CategoryName":"Corporate",
+        "name": "Erigo Events Pvt. Ltd.",
+        "description":"A full-service event management company offering solutions in consulting, planning, supervising, and executing social and corporate events."
+    },
+    {
+        "CategoryName":"Corporate",
+        "name": "Vintash Events",
+        "description":"Provides services like wedding planning, corporate events, event fabrications, and event rentals."
+    }
+]
