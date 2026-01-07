@@ -1,4 +1,4 @@
-# Make My Events 📅
+# EventHub 📅
 
 A full-stack MERN application designed to be a comprehensive directory for event management companies, allowing users to browse, search, and connect with organizers. This platform also empowers event organizers to list and manage their own company profiles.
 
@@ -111,8 +111,4 @@ You will need two separate terminals to run both the frontend and backend server
 
 ---
 
-## 👤 Contact
 
-Bhuvan CV - [bhuvancv](https://github.com/bhuvancv)
-
-Project Link: [https://github.com/bhuvancv/MakeMyEvents](https://github.com/bhuvancv/MakeMyEvents)
